@@ -3,7 +3,7 @@
 - 👋 I’m @BLYADERUINER:
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning in yandex.practicum
-- 💞️ I've always wanted to become a developer
+- 💞️ I've always dreamed of becoming a developer
 - 📫 How to reach me: <a href="https://t.me/blyaderuiner" target="_blank">Telegram</a>
 
 &nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
