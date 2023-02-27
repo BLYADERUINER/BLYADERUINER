@@ -1,9 +1,9 @@
 <h2>&#127760;Hello World!</h2>
 
-- 👋 I’m @BLYADERUINER:
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning in yandex.practicum
-- 💞️ I've always dreamed of becoming a developer
+- 👋 I’m <b>Dmitry Alekseev</b>.
+- 👀 I’m interested in web-development.
+- 🌱 I’m currently learning in yandex.practicum.
+- 💞️ I've always dreamed of becoming a developer.
 - 📫 How to reach me: <a href="https://t.me/blyaderuiner" target="_blank">Telegram</a>
 
 
