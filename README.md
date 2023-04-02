@@ -9,7 +9,7 @@
 
 [![codewars](https://www.codewars.com/users/BLYADERUINER/badges/large)](https://www.codewars.com/users/BLYADERUINER)  
 
-<h4>My Stack:</h4>
+<h4>Tech Stack:</h4>
 
 &nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23303133.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 ![React](https://img.shields.io/badge/React-1D2C4E?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JSON](https://img.shields.io/badge/json-85002E?style=for-the-badge&logo=json&logoColor=white)
+![PostCSS](https://img.shields.io/badge/postcss-85002E?style=for-the-badge&logo=postcss&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-2E86C1?style=for-the-badge&logo=Webpack&logoColor=white)
 
 
