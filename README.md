@@ -1,35 +1,38 @@
-# 🌐 `Hello World!`
+# 🌐 `Hello there!`
 
-- 👋 I’m <b>Dmitry Alekseev</b>.
-- 👀 At the moment I am interested in web development.
-- 🌱 Now I am studying TypeScript.
-- 💞️ I love programming, playing games, drawing and assembling computer systems.
-- 📫 How to reach me: <a href="https://t.me/blyaderuiner" target="_blank">Telegram</a>
-
-
-[![codewars](https://www.codewars.com/users/BLYADERUINER/badges/large)](https://www.codewars.com/users/BLYADERUINER)
-
+- 👋 I’m **Dmitry Alekseev**;
+- 🤠 Frontend Developer at **VideoNeuron**;
+- 🔎 Interested in web technologies;
+- 💞️ Love programming, playing games, designing and assembling computer systems;
+- 📫 How to reach me: **[Telegram](https://t.me/trydma)**;
 
 ## 🚀 Technology skills:
 
-### 💅 Frontend:
+### 👨‍💻 Languages:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-006bb3?style=for-the-badge&logo=typescript&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-c6538c?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23303133.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%2312649f.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23d4431b.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%2312649f.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+
+### 💅 Frontend:
 
 ![React](https://img.shields.io/badge/React-1D2C4E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Svelte](https://img.shields.io/badge/Svelte-3e3e47?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-cd3200?style=for-the-badge&logo=Svelte&logoColor=white)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-![Vite](https://img.shields.io/badge/Vite-5a00bb?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Babel](https://img.shields.io/badge/Babel-f7d40c?style=for-the-badge&logo=babel&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-c6538c?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PostCSS](https://img.shields.io/badge/postcss-85002E?style=for-the-badge&logo=postcss&logoColor=white)
+
+![Vite](https://img.shields.io/badge/Vite-5a00bb?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Webpack](https://img.shields.io/badge/Webpack-2E86C1?style=for-the-badge&logo=Webpack&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-f7d40c?style=for-the-badge&logo=babel&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 
 ### 😶‍🌫️ Backend:
@@ -53,5 +56,7 @@
 
 [//]: <![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)>
 
+- - -
+[![codewars](https://www.codewars.com/users/BLYADERUINER/badges/large)](https://www.codewars.com/users/BLYADERUINER)
 - - -
 &nbsp;![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLYADERUINER&theme=dracula)
