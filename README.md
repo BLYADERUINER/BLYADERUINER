@@ -4,7 +4,7 @@
 - 🤠 Frontend Developer at **VideoNeuron**;
 - 🔎 Interested in web technologies;
 - 💞️ Love programming, playing games, designing and assembling computer systems;
-- 📫 How to reach me: **[Telegram](https://t.me/trydma)**;
+- 📫 How to reach me: **[Telegram](https://t.me/tridemeus)**;
 
 ## 🚀 Technology skills:
 
