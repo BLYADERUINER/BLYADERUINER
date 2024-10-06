@@ -57,6 +57,6 @@
 [//]: <![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)>
 
 - - -
-[![codewars](https://www.codewars.com/users/BLYADERUINER/badges/large)](https://www.codewars.com/users/BLYADERUINER)
+[![codewars](https://www.codewars.com/users/trydman/badges/large)](https://www.codewars.com/users/trydman)
 - - -
 &nbsp;![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLYADERUINER&theme=dracula)
