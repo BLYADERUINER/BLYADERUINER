@@ -59,4 +59,4 @@
 - - -
 [![codewars](https://www.codewars.com/users/trydman/badges/large)](https://www.codewars.com/users/trydman)
 - - -
-&nbsp;![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLYADERUINER&theme=dracula)
+&nbsp;![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trydma&theme=dracula)
